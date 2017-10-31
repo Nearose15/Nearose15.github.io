@@ -2,19 +2,17 @@
 h1 {
 	color: Gold;
 	text-align: center;
-}
-
-h1.italic {
-    font-style: italic;
+	font-style: italic;
 }
 
 p {
 	color: Gold;
 	text-align: center;
+	font-style: italic;
 }
 
-p.italic {
-    font-style: italic;
+div {
+    text-align: justify;
 }
 
 body {
