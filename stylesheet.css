@@ -18,6 +18,8 @@ body {
 }
 
 img {
-	margin: auto;
+    display: block;
+    margin: auto;
+    width: 100%;
 }
 
