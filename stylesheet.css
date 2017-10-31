@@ -1,20 +1,18 @@
 
 h1 {
-	color: Gold;
+	color: Orange;
 	text-align: center;
 	font-style: italic;
-	font-size: 300;
+	font-size: 400;
+	text-align: justify;
 }
 
 p {
-	color: Gold;
+	color: Orange;
 	text-align: center;
 	font-style: italic;
-	font-size: 200%;
-}
-
-div {
-    text-align: justify;
+	font-size: 150%;
+	text-align: justify;
 }
 
 body {
