@@ -4,10 +4,19 @@ h1 {
 	text-align: center;
 }
 
+h1.italic {
+    font-style: italic;
+}
+
 p {
 	color: Gold;
 	text-align: center;
 }
+
+p.italic {
+    font-style: italic;
+}
+
 body {
 	background-image: url("https://img00.deviantart.net/933e/i/2010/058/b/5/italy_grunge_flag_1440x900_by_qian12.jpg");
 }
