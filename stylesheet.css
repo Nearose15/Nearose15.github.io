@@ -1,6 +1,6 @@
 
 h1 {
-	color: MediumTurquoise;
+	color: Navy;
 	text-align: center;
 	font-style: italic;
 	font-size: 400%;
@@ -20,6 +20,7 @@ body {
 img {
     display: block;
     margin: auto;
-    width: 100%;
+    width: 40%;
+	  
 }
 
