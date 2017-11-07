@@ -25,10 +25,14 @@ img {
 }
 
 ul {
-		list-style-type: none;
+	list-style-type: none;
+	background:white;
 }
 
+
 li {
-		padding: 10px 0 10px 0;
+	padding: 7px;
+	font-size: 10p;
+	
 }
 
